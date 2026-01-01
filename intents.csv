@@ -1,0 +1,67 @@
+text,label
+What's the weather like today?,weather_query
+How's the weather?,weather_query
+Is it raining outside?,weather_query
+Tell me the temperature,weather_query
+What's the forecast for tomorrow?,weather_query
+Tell me a joke,entertainment
+Make me laugh,entertainment
+Share something funny,entertainment
+What's a good joke?,entertainment
+Can you entertain me?,entertainment
+Book a flight,booking
+I want to book a hotel,booking
+Reserve a table for dinner,booking
+Schedule an appointment,booking
+Make a reservation,booking
+What time is it?,time_query
+What's the current time?,time_query
+Tell me the time,time_query
+What day is it today?,time_query
+What's the date?,time_query
+Hello,greeting
+Hi there,greeting
+Good morning,greeting
+Good evening,greeting
+Hey,greeting
+Goodbye,farewell
+See you later,farewell
+Bye,farewell
+Have a nice day,farewell
+Talk to you later,farewell
+What can you do?,capabilities
+What are your features?,capabilities
+How can you help me?,capabilities
+What do you offer?,capabilities
+Tell me about yourself,capabilities
+Thank you,gratitude
+Thanks a lot,gratitude
+I appreciate it,gratitude
+That's helpful,gratitude
+Much obliged,gratitude
+What's your name?,identity
+Who are you?,identity
+Tell me about you,identity
+What are you?,identity
+Are you a bot?,identity
+How do I reset my password?,technical_support
+My account is locked,technical_support
+I need help with login,technical_support
+The app is not working,technical_support
+Can you fix this error?,technical_support
+What's the capital of France?,general_knowledge
+Who wrote Romeo and Juliet?,general_knowledge
+What is the speed of light?,general_knowledge
+Tell me about Python programming,general_knowledge
+Explain machine learning,general_knowledge
+Order a pizza,food_order
+I want to order food,food_order
+Get me some coffee,food_order
+Can I have a burger?,food_order
+I'm hungry,food_order
+Play some music,media_request
+Recommend a song,media_request
+What's a good movie?,media_request
+Show me a video,media_request
+Play a podcast,media_request
+
